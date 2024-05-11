@@ -21,6 +21,14 @@ Interagindo com o MindMender, os usuários podem esperar uma experiência de sup
 - **Baseado em Evidências:** As técnicas e estratégias são baseadas em métodos comprovados de terapia psicológica.
 - **Interativo e Personalizado:** As sessões são adaptadas às necessidades individuais do usuário, tornando cada experiência única e pessoal.
 
+## 🚀 Próximos Passos
+
+- **Expansão para Novas Plataformas:** Estou trabalhando para tornar o MindMender acessível via Discord e Whatsapp. Isso permitirá que mais usuários aproveitem nosso suporte emocional e terapêutico em uma plataforma que eles se sentem confortáveis e usam regularmente.
+
+- **Adição de Funcionalidade de Voz:** Em breve, o MindMender oferecerá suporte por voz, permitindo interações mais naturais e acessíveis. Usuários poderão falar diretamente com o MindMender, tornando a experiência ainda mais próxima e pessoal.
+
+- **Projeção 3D:** Estamos explorando tecnologias de realidade aumentada para trazer uma representação tridimensional do MindMender. Imagine interagir com uma projeção 3D do nosso assistente de saúde mental em seu próprio espaço, aumentando a imersão e a eficácia do suporte oferecido.
+
 ## ✨ Conclusão
 O MindMender é mais do que apenas um chatbot; é um companheiro de saúde mental projetado para oferecer suporte e orientação contínuos. Embora não substitua o aconselhamento profissional de saúde mental, oferece um recurso valioso para aqueles que procuram melhorar seu bem-estar emocional. Seja você alguém lutando contra a ansiedade, procurando maneiras de desestressar, ou simplesmente interessado em técnicas de auto-ajuda, o MindMender está aqui para ajudar.
 
