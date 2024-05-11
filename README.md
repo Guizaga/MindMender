@@ -3,7 +3,7 @@
 ## 🌟 Introdução
 Bem-vindo ao **MindMender**, um chatbot assistente de saúde mental projetado para oferecer suporte emocional e terapêutico utilizando técnicas baseadas na Terapia Cognitivo-Comportamental (TCC). Este projeto visa fornecer uma ferramenta acessível e conveniente para ajudar indivíduos a gerenciar seu bem-estar emocional e mental diretamente pelo WhatsApp.
 
-## 🚀 Como o MindMender Pode Ajudar Você?
+## 🚀 Como o MindMender te ajudará?
 O MindMender emprega uma série de estratégias terapêuticas interativas para auxiliar no manejo de condições como ansiedade, depressão, estresse e outras questões de saúde mental. Aqui estão algumas maneiras pelas quais o MindMender pode ser útil:
 
 - **Reestruturação Cognitiva:** Ajuda os usuários a identificar e reformular pensamentos negativos, promovendo uma perspectiva mais positiva.
@@ -13,7 +13,7 @@ O MindMender emprega uma série de estratégias terapêuticas interativas para a
 - **Registro de Humor e Atividades:** Permite que os usuários acompanhem seus sentimentos e atividades diárias, ajudando a identificar padrões ou gatilhos emocionais.
 - **Estabelecimento de Metas:** Encoraja e acompanha o progresso em direção a objetivos de saúde mental estabelecidos, fortalecendo a motivação e o crescimento pessoal.
 
-## 📅 O que Esperar do MindMender?
+## 📅 Benefícios do MindMender?
 Interagindo com o MindMender, os usuários podem esperar uma experiência de suporte amigável e empática. O chatbot foi projetado para ser:
 
 - **Acessível 24/7:** Disponível a qualquer hora e em qualquer lugar, diretamente pelo seu smartphone.
