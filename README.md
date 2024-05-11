@@ -1,7 +1,7 @@
 # MindMender
 
 ## 🌟 Introdução
-Bem-vindo ao **MindMender**, um chatbot assistente de saúde mental projetado para oferecer suporte emocional e terapêutico utilizando técnicas baseadas na Terapia Cognitivo-Comportamental (TCC). Este projeto visa fornecer uma ferramenta acessível e conveniente para ajudar indivíduos a gerenciar seu bem-estar emocional e mental.
+Bem-vindo ao **MindMender**, um chatbot assistente de saúde mental simples e intuitivo projetado para oferecer suporte emocional e terapêutico utilizando técnicas baseadas na Terapia Cognitivo-Comportamental (TCC). Este projeto visa fornecer uma ferramenta acessível e conveniente para ajudar indivíduos a gerenciar seu bem-estar emocional e mental.
 
 ## 🚀 Como o MindMender te ajudará?
 O MindMender emprega uma série de estratégias terapêuticas interativas para auxiliar no manejo de condições como ansiedade, depressão, estresse e outras questões de saúde mental. Aqui estão algumas maneiras pelas quais o MindMender pode ser útil:
